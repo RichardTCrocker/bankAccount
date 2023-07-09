@@ -1,4 +1,5 @@
 class BankAccount:
+
     all_accounts = []
     def __init__(self, int_rate, balance = 0): 
         self.balance = balance
